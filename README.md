@@ -1,9 +1,9 @@
 # Statistical-Programming
 
 The content is the implemention of the following algorithms in statistical computing using R, Python. 
-All the codes were written from scratch and avoided using the built-in packages.\\
+All the codes were written from scratch and avoided using the built-in packages.\
 
-1.Homewrok1-Random number generators, Monte Carlo integration.\\
+1.Homewrok1-Random number generators, Monte Carlo integration.\
 2.Homewrok2-Metropolis algorithm, Gibbs sampling.
 3.Homework3-Sweep operator, Linear Model based on Sweep operator.
 4.Homework4-QR decomposition, Linear model based on QR.
