@@ -11,5 +11,5 @@ Most of the codes were written from scratch and avoided using the built-in packa
 6.Homework6-Logistic regression, Adaboost.\
 7.Homework7-XGboost.\
 8.Homework8-SVM.\
-9.Final Project-Lasso solution path, Neural Networks.\
+9.Final Project-Lasso solution path, Neural Networks.
 
